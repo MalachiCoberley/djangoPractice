@@ -1,0 +1,2 @@
+start dev server with: python manage.py runserver
+ - change port: $ python manage.py runserver <port number>
